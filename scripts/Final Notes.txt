@@ -1,0 +1,5 @@
+Make sure the ECS cluster and service (centralized-logging-cluster, centralized-logging-service) exist.
+
+Ensure IAM roles (ecsTaskExecutionRole) have permission to write to CloudWatch.
+
+After deploying, view logs in the CloudWatch Logs Console and configure OpenSearch dashboards for visualization.

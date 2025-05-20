@@ -1,0 +1,14 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "es:*",
+      "Resource": "arn:aws:es:us-east-1:123456789012:domain/centralized-logging/*"
+    }
+  ]
+}
+
+
+#🔐 Note: Replace 123456789012 with your actual AWS account ID. Consider restricting to specific IAM roles or VPC access for security.
