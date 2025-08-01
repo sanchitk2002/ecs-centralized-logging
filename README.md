@@ -43,9 +43,5 @@ ecs-centralized-logging-project/
 └── README.md
 
 
-
-## 📸 Screenshots
-Add screenshots of OpenSearch Dashboard, ECS tasks, CloudWatch alarms, etc.
-
 ## 👤 Author
 Sanchit Kumar
